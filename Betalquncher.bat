@@ -1,8 +1,6 @@
 @echo off
-@echo *****************
-@echo *Python3        *
-@echo *C#             *
-@echo *C++            *
-@echo *F#             *
-@echo *Lua            *
-@echo *****************
+@echo <C++>
+@echo <Lua>
+@echo <Python3>
+@echo <html>
+@echo <C#>
